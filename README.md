@@ -31,12 +31,12 @@ This project analyzes telecom customer data to understand churn behavior and bui
 - Encoding categorical variables
 - Feature scaling (StandardScaler)
 - Model Building
-- Logistic Regression
-Random Forest (with GridSearchCV tuning)
-Support Vector Machine (SVM)
-Neural Network (Keras)
+- Logistic Regression ,
+Random Forest (with GridSearchCV tuning) ,
+Support Vector Machine (SVM) ,
+Neural Network (Keras) ,
 - Model Evaluation
-Accuracy, Precision, Recall, F1-score, ROC-AUC
+Accuracy, Precision, Recall, F1-score, ROC-AUC ,
 Confusion Matrix comparison
 
 ## 📊 Results
